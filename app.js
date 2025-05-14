@@ -3,10 +3,10 @@
 
 //let paragrafo = document.querySelector('p')
 //paragrafo.innerHTML = 'Escolha um número entre 1 a 10'
-
+//TESTANDO 
 
 let listaNumerosSorteados = [];
-let numeroLimite = 1000;
+let numeroLimite = 150;
 let numeroSecreto = gerarNumeroAleatorio ();
 let tentativas = 1;
 
