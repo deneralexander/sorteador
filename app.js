@@ -20,7 +20,6 @@ function exibirTextoNaTela(tag, texto) {
 function exibirMensagemInicial(){
     exibirTextoNaTela('h1', 'COMMIT TESTE');
     exibirTextoNaTela('p', 'Criação de algo novo para retorno!');
-}
 
 exibirMensagemInicial();
 
