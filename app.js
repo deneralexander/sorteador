@@ -19,7 +19,7 @@ function exibirTextoNaTela(tag, texto) {
 
 function exibirMensagemInicial(){
     exibirTextoNaTela('h1', 'COMMIT TESTE');
-    exibirTextoNaTela('p', 'Escolha a quantidade de grama que vai querer');
+    exibirTextoNaTela('p', 'Criação de algo novo para retorno!');
 }
 
 exibirMensagemInicial();
