@@ -6,7 +6,7 @@
 
 
 let listaNumerosSorteados = [];
-let numeroLimite = 4;
+let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio ();
 let tentativas = 1;
 
@@ -18,7 +18,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('h1', 'Jogo da Cocaína');
+    exibirTextoNaTela('h1', 'Jogo da Maconha GITHUB');
     exibirTextoNaTela('p', 'Escolha a quantidade de grama que vai querer');
 }
 
