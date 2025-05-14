@@ -18,7 +18,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('h1', 'Jogo da Maconha GITHUB');
+    exibirTextoNaTela('h1', 'Jogo da Maconha GITHUB 2 testando PULL');
     exibirTextoNaTela('p', 'Escolha a quantidade de grama que vai querer');
 }
 
