@@ -18,7 +18,7 @@ function exibirTextoNaTela(tag, texto) {
 }
 
 function exibirMensagemInicial(){
-    exibirTextoNaTela('h1', 'COMMIT TESTE RETORJNO');
+    exibirTextoNaTela('h1', 'COMMIT TESTE');
     exibirTextoNaTela('p', 'Escolha a quantidade de grama que vai querer');
 }
 
